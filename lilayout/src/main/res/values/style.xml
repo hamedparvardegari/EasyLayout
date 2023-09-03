@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="inputTextCounterStyle">
+        <item name="fontFamily">@font/iran_sans</item>
+    </style>
+
+    <style name="inputTextPrefixStyle">
+        <item name="fontFamily">@font/iran_sans</item>
+    </style>
+</resources>
